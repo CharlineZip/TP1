@@ -1,0 +1,27 @@
+header{
+    background: rgb(6, 179, 136);
+    color:white;
+    display: flex;
+    box-shadow: 0 10px 20px rgba(0, 0, 0)
+}
+body{
+    margin: 0px;
+    background: rgb(204, 200, 200);
+}
+h1{
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 40px;
+}
+.header{
+    margin: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.icone{
+    margin-left:auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 50px;
+}
