@@ -2,26 +2,37 @@ header{
     background: rgb(6, 179, 136);
     color:white;
     display: flex;
-    box-shadow: 0 10px 20px rgba(0, 0, 0)
+    gap: 40px;
+    align-items: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0);
+    padding: 40px;
 }
 body{
     margin: 0px;
     background: rgb(204, 200, 200);
 }
 h1{
-    margin-left: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-right: 40px;
+    margin: 0px;
 }
 .header{
-    margin: 20px;
-    margin-top: auto;
-    margin-bottom: auto;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .icone{
     margin-left:auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-right: 50px;
+}
+main{
+    display: flex;
+}
+.texte{
+   margin-top: 100px;
+   margin-left: 200px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    width: 100%;
+}
+.image{
+    width: 30%;
+    margin-top: 150px;
 }
